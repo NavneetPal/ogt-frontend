@@ -1,0 +1,9 @@
+.nav li a {
+    color: #8a8a8a;
+    width: auto;
+    display: block;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 12px;
+    font-weight: 700;
+}

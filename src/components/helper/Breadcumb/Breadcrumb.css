@@ -1,0 +1,22 @@
+.breadcumb-image{
+    background-image: url('https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+}
+.breadcumb-image{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.bg-overley{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
